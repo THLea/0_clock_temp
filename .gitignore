@@ -1,0 +1,4 @@
+/keil_prj/*
+!/keil_prj/src/
+!/keil_prj/inc/
+!/keil_prj/*.A51
